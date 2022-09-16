@@ -1,0 +1,1 @@
+exec isPrime-broken1 1 > output.txt
