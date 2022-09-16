@@ -1,0 +1,8 @@
+1c1
+< 1 is not prime
+---
+> 1 is prime
+1c1
+< 1 is not prime
+---
+> 1 is prime
